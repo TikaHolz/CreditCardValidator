@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-
+//hello this is a comment 
 public class Main
 	{
 	static long [] creditCardNum = new long[16];
